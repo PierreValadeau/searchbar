@@ -1,0 +1,12 @@
+.search-bar-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.App{
+    display: flex;
+    justify-content: center;
+}
